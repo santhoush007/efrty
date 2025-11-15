@@ -131,5 +131,5 @@ Searchable message history and pagination
 Push notifications for mobile/web when offline
 
 #output: -->Login page of chat: 
-
+<img width="1136" height="496" alt="Image" src="https://github.com/user-attachments/assets/d3bfe745-cee3-40aa-a505-ccd99c3e6113" />
 -->Chat Box: Image
