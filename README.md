@@ -132,4 +132,6 @@ Push notifications for mobile/web when offline
 
 #output: -->Login page of chat: 
 <img width="1136" height="496" alt="Image" src="https://github.com/user-attachments/assets/d3bfe745-cee3-40aa-a505-ccd99c3e6113" />
--->Chat Box: Image
+-->Chat Box:
+<img width="914" height="895" alt="Image" src="https://github.com/user-attachments/assets/e2004c3f-5f5c-4a7d-a158-705c59fa1d82" />
+
