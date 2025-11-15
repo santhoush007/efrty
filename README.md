@@ -1,4 +1,5 @@
-CHAT-APPLICATION
+CHAT-APPLICATION:
+
 🔴 Real-Time Chat Application — Project Description
 
 This project is a full-stack real-time chat application built with WebSocket technology (Socket.IO recommended) that demonstrates bidirectional, low-latency communication between clients and a server. The app includes a responsive frontend and a scalable backend, user presence and typing indicators, message persistence, and basic security features. It’s designed to be a production-ready reference for learning real-time web development and for showcasing in a portfolio.
@@ -129,4 +130,6 @@ Searchable message history and pagination
 
 Push notifications for mobile/web when offline
 
-#output: -->Login page of chat: Image -->Chat Box: Image
+#output: -->Login page of chat: 
+
+-->Chat Box: Image
