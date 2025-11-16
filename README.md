@@ -1,3 +1,16 @@
+COMPANY NAME : CODETECH IT SOLUTION
+
+NAME : Santhoush S
+
+INTERN ID : CT06DR265
+
+DOMAIN : Full Stack Web Development
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+## TACK-2
 ## CHAT-APPLICATION:
 
 🔴 Real-Time Chat Application — Project Description
