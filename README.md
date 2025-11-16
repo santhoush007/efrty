@@ -1,4 +1,4 @@
-CHAT-APPLICATION:
+## CHAT-APPLICATION:
 
 🔴 Real-Time Chat Application — Project Description
 
@@ -34,7 +34,7 @@ Extensibility: file/image attachments, emojis, and message editing/deleting
 
 🏗️ Architecture Overview:
 
--->Client (Frontend)
+## Client (Frontend)
 
 HTML/CSS/JavaScript or React/Vue for a single-page app.
 
@@ -44,7 +44,7 @@ Emits events: join-room, send-message, typing, stop-typing.
 
 Listens for events: message, user-joined, user-left, typing, presence-update.
 
--->Server (Backend)
+## Server (Backend)
 
 Node.js + Express server with Socket.IO integration.
 
@@ -54,13 +54,13 @@ Persists messages to a database (e.g., MongoDB with Mongoose).
 
 Optionally provides REST endpoints for message history, authentication, and admin actions.
 
--->Database (Persistence Layer)
+## Database (Persistence Layer)
 
 Stores users, rooms, and message history.
 
 Example: MongoDB (recommended) or SQLite/Postgres for smaller setups.
 
--->Deployment
+## Deployment
 
 Host backend on a node-capable platform (Heroku, Render, DigitalOcean).
 
@@ -130,8 +130,11 @@ Searchable message history and pagination
 
 Push notifications for mobile/web when offline
 
-#output: -->Login page of chat: 
+---
+## output: 
+## Login page of chat: 
 <img width="1136" height="496" alt="Image" src="https://github.com/user-attachments/assets/d3bfe745-cee3-40aa-a505-ccd99c3e6113" />
--->Chat Box:
+
+## Chat Box:
 <img width="914" height="895" alt="Image" src="https://github.com/user-attachments/assets/e2004c3f-5f5c-4a7d-a158-705c59fa1d82" />
 
